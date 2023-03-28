@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at TCN Broadcasting<br>🌱 I’m currently Typescript<br>💬 Ask me about the best backend framework for web development<br>
+🔭 I’m currently working at TCN Broadcasting<br>🌱 I’m currently learning Typescript<br>💬 Ask me about the best backend framework for web development<br>
 
 
 ## 🌐 Socials:
